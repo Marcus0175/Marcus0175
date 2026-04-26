@@ -4,8 +4,7 @@
 I am a Computer Science graduate from Ton Duc Thang University. I enjoy working with data, from building stable pipelines to finding the stories behind the numbers.
 
 - 🔍 **Looking for:** New challenges in **Data Analysis**, **Data Engineering**, or **Analytics Engineering**.
-- 🛠️ **What I do:** I specialize in SQL, Python, and building data models like Medallion Architecture or SCD Type-2.
-- ⚡ **Past Work:** I previously worked at Affina Viet Nam, where I helped automate reporting workflows and saved about 10 hours of manual work per week.
+- 🛠️ **What I do:** I specialize in SQL, Python, and building data models like Medallion Architecture.
 - 🌱 **Learning:** Currently diving deeper into Cloud Data and workflow orchestration.
 
 ---
