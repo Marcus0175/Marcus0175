@@ -23,5 +23,5 @@ I am a Computer Science graduate from Ton Duc Thang University. I enjoy working 
 
 ### 📫 Get in touch
 * **Email:** nguyencaophuchai.it@gmail.com
-* **LinkedIn:** [linkedin.com/in/Hai Nguyen]([https://linkedin.com/in/Hai-Nguyen](https://www.linkedin.com/in/nguyencaophuchai/))
+* **LinkedIn:** [linkedin.com/in/nguyencaophuchai](https://www.linkedin.com/in/nguyencaophuchai/)
 * **Portfolio:** [p-hai.github.io/portfolio/](https://p-hai.github.io/portfolio/)
